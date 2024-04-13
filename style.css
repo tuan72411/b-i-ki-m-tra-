@@ -1,0 +1,31 @@
+
+        body {
+            background:url(https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2023/12/26/hinh-1-17035594683252023043418.png);
+            background-size: cover;
+            color:white;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            max-width: 1000px;
+            margin: auto;
+            text-align: center;
+        }
+        h1 {
+            margin-top: 50px;
+        }
+        input[type=text] {
+            width: 60%;
+            padding: 10px;
+        }
+        button {
+           padding: 10px 20px; 
+           margin: 20px 20px 0px 20px; 
+           background-color:#00BFFF; 
+           color:white; 
+           border:none; 
+           cursor:pointer; 
+       }
+       button:hover {background-color:#1E90FF;}
+       .description {
+        font-size: 0.5em;
+       }
